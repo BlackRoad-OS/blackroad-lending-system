@@ -1,26 +1,14 @@
-# 🖤🛣️ BlackRoad Lending System
+# BlackRoad Lending System
 
-Part of the BlackRoad Product Empire - 350+ enterprise solutions
+Peer-to-peer and institutional lending platform with smart contracts.
 
-## 🚀 Quick Start
+## Features
+- **P2P Lending** - Direct borrower-lender matching
+- **Credit Scoring** - AI-powered risk assessment
+- **Smart Contracts** - Automated loan terms
+- **Collateral** - Multi-asset collateral management
+- **Compliance** - Regulatory reporting
+- **Self-Hosted** - Run your own lending platform
 
-```bash
-./blackroad-lending-system.sh
-```
-
-## 🎨 BlackRoad Design System
-
-- **Hot Pink**: #FF1D6C
-- **Amber**: #F5A623  
-- **Electric Blue**: #2979FF
-- **Violet**: #9C27B0
-
-## 📚 Documentation
-
-Full docs: https://docs.blackroad.io
-
-## 🖤 BlackRoad Empire
-
-Part of 350+ products across 46 categories. Built with ∞ vision.
-
-**BlackRoad OS, Inc.** | Built with Claude
+## License
+Copyright (c) 2026 BlackRoad OS, Inc. Proprietary software.
